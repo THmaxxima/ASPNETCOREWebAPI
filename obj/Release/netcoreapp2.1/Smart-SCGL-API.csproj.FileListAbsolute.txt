@@ -1,0 +1,15 @@
+D:\FC-Guthub\SmartQWebAPI\SmartQ-SCGL-API\bin\Release\netcoreapp2.1\Smart-SCGL-API.deps.json
+D:\FC-Guthub\SmartQWebAPI\SmartQ-SCGL-API\bin\Release\netcoreapp2.1\Smart-SCGL-API.runtimeconfig.json
+D:\FC-Guthub\SmartQWebAPI\SmartQ-SCGL-API\bin\Release\netcoreapp2.1\Smart-SCGL-API.runtimeconfig.dev.json
+D:\FC-Guthub\SmartQWebAPI\SmartQ-SCGL-API\bin\Release\netcoreapp2.1\Smart-SCGL-API.dll
+D:\FC-Guthub\SmartQWebAPI\SmartQ-SCGL-API\bin\Release\netcoreapp2.1\Smart-SCGL-API.pdb
+D:\FC-Guthub\SmartQWebAPI\SmartQ-SCGL-API\obj\Release\netcoreapp2.1\Smart-SCGL-API.csprojAssemblyReference.cache
+D:\FC-Guthub\SmartQWebAPI\SmartQ-SCGL-API\obj\Release\netcoreapp2.1\Smart-SCGL-API.csproj.CoreCompileInputs.cache
+D:\FC-Guthub\SmartQWebAPI\SmartQ-SCGL-API\obj\Release\netcoreapp2.1\Smart-SCGL-API.RazorAssemblyInfo.cache
+D:\FC-Guthub\SmartQWebAPI\SmartQ-SCGL-API\obj\Release\netcoreapp2.1\Smart-SCGL-API.RazorAssemblyInfo.cs
+D:\FC-Guthub\SmartQWebAPI\SmartQ-SCGL-API\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\FC-Guthub\SmartQWebAPI\SmartQ-SCGL-API\obj\Release\netcoreapp2.1\Smart-SCGL-API.AssemblyInfoInputs.cache
+D:\FC-Guthub\SmartQWebAPI\SmartQ-SCGL-API\obj\Release\netcoreapp2.1\Smart-SCGL-API.AssemblyInfo.cs
+D:\FC-Guthub\SmartQWebAPI\SmartQ-SCGL-API\obj\Release\netcoreapp2.1\Smart-SCGL-API.RazorTargetAssemblyInfo.cache
+D:\FC-Guthub\SmartQWebAPI\SmartQ-SCGL-API\obj\Release\netcoreapp2.1\Smart-SCGL-API.dll
+D:\FC-Guthub\SmartQWebAPI\SmartQ-SCGL-API\obj\Release\netcoreapp2.1\Smart-SCGL-API.pdb

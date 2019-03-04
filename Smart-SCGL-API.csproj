@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <UserSecretsId>434a8afa-3558-4595-9c80-fb30f7f627cd</UserSecretsId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Entities\KEYAttribute.cs" />
+    <Compile Remove="Helpers\FromODataUriAttribute.cs" />
+    <Compile Remove="Helpers\QueueData.cs" />
+    <Compile Remove="_mapper\ConfigurationProvider.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="7.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="5.0.1" />
+    <PackageReference Include="Dapper" Version="1.50.5" />
+    <PackageReference Include="Flurl" Version="2.8.0" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="2.1.4" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Flurl">
+      <HintPath>C:\Users\Maxx-FC\.nuget\packages\flurl\2.8.0\lib\net40\Flurl.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="_mapper\" />
+  </ItemGroup>
+</Project>
